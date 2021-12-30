@@ -1,3 +1,4 @@
+//Important: this code was implemented in the Google Earth Engine code editor and it is built to work there
 //Imports
 var image = ee.Image("USGS/SRTMGL1_003"),
     NOAA = ee.Image("NOAA/NGDC/ETOPO1"),
