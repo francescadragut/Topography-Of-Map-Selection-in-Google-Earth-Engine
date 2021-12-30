@@ -1,0 +1,2 @@
+Link to the application: https://francescadragut01.users.earthengine.app/view/topography-of-map-selection
+Link to the source code: https://code.earthengine.google.com/?scriptPath=users%2Ffrancescadragut01%2Fmymaps%3AUser%20Interface
